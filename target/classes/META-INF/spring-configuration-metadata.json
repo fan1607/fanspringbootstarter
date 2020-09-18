@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "example.service",
+      "type": "cn.fan.ExampleServiceProperties",
+      "sourceType": "cn.fan.ExampleServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "example.service.enabled",
+      "type": "java.lang.String",
+      "sourceType": "cn.fan.ExampleServiceProperties"
+    },
+    {
+      "name": "example.service.prefix",
+      "type": "java.lang.String",
+      "sourceType": "cn.fan.ExampleServiceProperties"
+    },
+    {
+      "name": "example.service.suffix",
+      "type": "java.lang.String",
+      "sourceType": "cn.fan.ExampleServiceProperties"
+    }
+  ],
+  "hints": []
+}
